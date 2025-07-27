@@ -4,7 +4,7 @@
 
 ## 檢測工具程式
 
-你可以透過執行 [script.py](script.py) 開啟 WebUI 偵測漏洞是否存在，及可利用的方向。
+你可以透過執行 [script.py](script.py) 開啟 WebUI 偵測漏洞是否存在，以及可利用之方向。
 
 ![alt](assets/webui.png)
 
